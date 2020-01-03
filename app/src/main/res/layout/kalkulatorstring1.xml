@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.contoh.kalkulatorstring.MainActivity">
+
+
+    <TextView
+        android:text="Kalimat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="21dp"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:textStyle="normal|bold"
+        android:textSize="18sp" />
+
+    <TextView
+        android:text="Hasil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView"
+        android:id="@+id/textView2"
+        android:layout_below="@+id/txtKalimat"
+        android:textSize="18sp"
+        android:textStyle="normal|bold" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_below="@+id/textView"
+        android:layout_alignStart="@+id/textView"
+        android:layout_marginTop="20dp"
+        android:id="@+id/txtKalimat"
+        android:hint="Kalimat" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_marginTop="13dp"
+        android:id="@+id/txtHasil"
+        android:layout_below="@+id/textView2"
+        android:layout_alignStart="@+id/textView2"
+        android:hint="Hasil" />
+
+    <Button
+        android:text="UPPER"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="33dp"
+        android:id="@+id/btnUpper"
+        android:layout_below="@+id/txtHasil"
+        android:layout_alignStart="@+id/txtHasil" />
+
+    <Button
+        android:text="Lower"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/btnUpper"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/btnLower" />
+
+    <Button
+        android:text="REVERSE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnUpper"
+        android:layout_alignStart="@+id/btnUpper"
+        android:layout_marginTop="17dp"
+        android:id="@+id/btnReverse" />
+
+    <Button
+        android:text="EXIT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnReverse"
+        android:layout_alignStart="@+id/btnReverse"
+        android:layout_marginTop="43dp"
+        android:id="@+id/btnExit"
+        android:layout_alignEnd="@+id/btnReplace" />
+
+    <Button
+        android:text="COUNT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnCount"
+        android:layout_above="@+id/btnExit"
+        android:layout_alignStart="@+id/btnLower" />
+
+    <Button
+        android:text="JOIN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnJoin"
+        android:layout_alignBaseline="@+id/btnLower"
+        android:layout_alignBottom="@+id/btnLower"
+        android:layout_toEndOf="@+id/txtHasil"
+        android:layout_marginStart="12dp" />
+
+    <Button
+        android:text="REPLACE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnReplace"
+        android:layout_above="@+id/btnExit"
+        android:layout_alignStart="@+id/btnJoin" />
+</RelativeLayout>

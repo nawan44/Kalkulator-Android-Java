@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\UNJ\KalkulatorString\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\UNJ\KalkulatorString\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_b3ea9b54b7862d436b7d6f378627d433438f3953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\UNJ\KalkulatorString\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\UNJ\KalkulatorString\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_8379161f57a17d3e9dd8322e9dfc7732f59e3792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\UNJ\KalkulatorString\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\UNJ\KalkulatorString\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_dfcdef10afe07e9b59d2643c75d11d57514968b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\UNJ\KalkulatorString\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\UNJ\KalkulatorString\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_39d239cdfa31621e1f47fada5302196035837930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\UNJ\KalkulatorString\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e8b735ac569f616b1a9177ac6ff992c49bb0b57d">
+        <dex dex="D:\UNJ\KalkulatorString\app\build\intermediates\pre-dexed\debug\instant-run_12e32d11d5cdb1420bc6c329ba3bbd5a056375a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\UNJ\KalkulatorString\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\UNJ\KalkulatorString\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_56c6d6ffd499827a04bf4dddc335572f848cad5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\UNJ\KalkulatorString\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\UNJ\KalkulatorString\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_11a1236d146120cc97dce6dcc027d5bddf84f51d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\UNJ\KalkulatorString\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\UNJ\KalkulatorString\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_e7d3c8793953b7bf8188959d6863756621bf6f32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wiranta\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\UNJ\KalkulatorString\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_d8dffced9ec081a5b94d644adfcb6bc120fd4438.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\UNJ\KalkulatorString\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\UNJ\KalkulatorString\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_0294df82ab49e1768cede1fb58712819e45f5a5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\UNJ\KalkulatorString\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="69c9c5f8413646ad2cd1c501835c273d712f8169">
+        <dex dex="D:\UNJ\KalkulatorString\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5434e03948b3de8f6cf2d1b1917c920157df4964.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\UNJ\KalkulatorString\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\UNJ\KalkulatorString\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_93117a3d3b983b00b6d02639734529fcd4300155.jar" />
+    </item>
+
+</items>
